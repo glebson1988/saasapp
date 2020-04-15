@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise-bootstrap-views'
 gem 'twitter-bootstrap-rails'
+gem 'font-awesome-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

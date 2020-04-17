@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
 gem 'twitter-bootstrap-rails'
+gem 'jquery-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 

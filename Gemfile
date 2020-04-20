@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-datepicker-rails'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
+gem 'jquery-ui-rails'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 # Use ActiveStorage variant

@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'aws-sdk-s3'
 gem 'bootstrap-datepicker-rails'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'

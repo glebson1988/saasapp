@@ -3,9 +3,9 @@
 one:
   email: MyString
   token: MyString
-  tanant: one
+  tenant: one
 
 two:
   email: MyString
   token: MyString
-  tanant: two
+  tenant: two

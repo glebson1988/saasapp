@@ -21,5 +21,3 @@ Project management application with bootstrap on front-end.
 - 'stripe' for access to the Stripe API (online payment processing)
 - 'milia' for multi-tenanting support
 - 'aws-sdk-s3' for uploading files to Amazon S3 bucket
-
-https://glebson-saasapp.herokuapp.com/
